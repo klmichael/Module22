@@ -9,7 +9,7 @@
   "build": "npm sintall",
   "start": "node http_server.js",
   "engines": {
-    "node": "14.7.4"
+    "node": "14.7"
   },
   "repository": {
     "type": "git",
